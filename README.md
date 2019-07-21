@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://github.com/CrutchTheClutch/HackerRank/raw/master/logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/Solutions-65-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
-[![Languages](https://img.shields.io/badge/Languages-C%2B%2B%2C%20Java%2C%20JavaScript%2C%20Python-red.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/Solutions-73-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
+[![Languages](https://img.shields.io/badge/Languages-C%2B%2B%2C%20CSS%2C%20HTML%2C%20Java%2C%20JavaScript%2C%20Python-red.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat-square)](https://www.hackerrank.com/CrutchTheClutch)
 </div>
 </br>
@@ -57,6 +57,7 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 | Introduction | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | Easy | 10 | [GitHub](Solutions/C%2B%2B/Introduction/Arrays%20Introduction/Solution.cpp) &bull; [HackerRank](https://www.hackerrank.com/challenges/arrays-introduction/submissions/code/54471883) | ![#f34b7d](https://img.shields.io/badge/C++-f34b7d.svg?style=flat-square) |
 
 ## Data Structures
+
 | Subdomain | Challenge | Difficulty | Score | Solution | Language |
 | --------- | --------- | ---------- | ----- | -------- | :------: |
 | Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | 15 | [GitHub](Solutions/Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.java) &bull; [HackerRank](https://www.hackerrank.com/challenges/2d-array/submissions/code/111592369) | ![#b07219](https://img.shields.io/badge/Java-b07219.svg?style=flat-square) |
@@ -114,6 +115,14 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 | 10 Days of Javascript | [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%204꞉%20Count%20Objects/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-count-objects/submissions/code/114322291) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 | 10 Days of Javascript | [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%204꞉%20Classes/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-class/submissions/code/114322583) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 | 10 Days of Javascript | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%205꞉%20Inheritance/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-inheritance/submissions/code/114322933) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%205꞉%20Template%20Literals/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-template-literals/submissions/code/115247274) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%205꞉%20Arrow%20Functions/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-arrows/submissions/code/115247834) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%206꞉%20Bitwise%20Operators/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-bitwise/submissions/code/115249974) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%206꞉%20JavaScript%20Dates/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-date/submissions/code/115250753) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%207꞉%20Regular%20Expressions%20I/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-regexp-1/submissions/code/115252261) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%207꞉%20Regular%20Expressions%20II/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-regexp-2/submissions/code/115252615) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%207꞉%20Regular%20Expressions%20III/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-regexp-3/submissions/code/115252883) | ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | 20 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%208꞉%20Create%20a%20Button/) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-create-a-button/submissions/design/115254251) | ![#563d7c](https://img.shields.io/badge/CSS-563d7c.svg?style=flat-square) ![#e34c26](https://img.shields.io/badge/HTML-e34c26.svg?style=flat-square) ![#3572a5](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 
 </br>
 </br>
