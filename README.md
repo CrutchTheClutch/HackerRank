@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/CrutchTheClutch/HackerRank/raw/master/logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/Solutions-73-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/Solutions-75-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/Languages-C%2B%2B%2C%20CSS%2C%20HTML%2C%20Java%2C%20JavaScript%2C%20Python-red.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat-square)](https://www.hackerrank.com/CrutchTheClutch)
 </div>
@@ -14,12 +14,12 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Algorithms](#Algorithms)
-- [C++](#C)
-- [Data Structures](#Data-Structures)
-- [Java](#Java)
-- [Python](#Python)
-- [Tutorials](#Tutorials)
+- [Algorithms](#algorithms)
+- [C++](#c)
+- [Data Structures](#data-structures)
+- [Java](#java)
+- [Python](#python)
+- [Tutorials](#tutorials)
 
 ## Algorithms
 
@@ -124,6 +124,7 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 | 10 Days of Javascript | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | Easy | 15 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%207꞉%20Regular%20Expressions%20III/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-regexp-3/submissions/code/115252883) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 | 10 Days of Javascript | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | 20 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%208꞉%20Create%20a%20Button/) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-create-a-button/submissions/design/115254251) | ![CSS](https://img.shields.io/badge/CSS-563d7c.svg?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-e34c26.svg?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 | 10 Days of Javascript | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | 25 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%208꞉%20Buttons%20Container/) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-buttons-container/submissions/design/115363012) | ![CSS](https://img.shields.io/badge/CSS-563d7c.svg?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-e34c26.svg?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| 10 Days of Javascript | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | 30 | [GitHub](Solutions/Tutorials/10%20Days%20of%20Javascript/Day%209꞉%20Binary%20Calculator/) &bull; [HackerRank](https://www.hackerrank.com/challenges/js10-binary-calculator/submissions/design/116224569) | ![CSS](https://img.shields.io/badge/CSS-563d7c.svg?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-e34c26.svg?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 
 </br>
 </br>
