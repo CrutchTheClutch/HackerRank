@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/CrutchTheClutch/HackerRank/raw/master/logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/Solutions-75-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/Solutions-80-brightgreen.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/Languages-C%2B%2B%2C%20CSS%2C%20HTML%2C%20Java%2C%20JavaScript%2C%20Python-red.svg?style=flat-square)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat-square)](https://www.hackerrank.com/CrutchTheClutch)
 </div>
@@ -10,7 +10,7 @@
 
 This repo contains all of my personal HackerRank solutions.  The coding solutions provided within this repo are entirely provided by me, [William Crutchfield](https://www.hackerrank.com/CrutchTheClutch).  
 
-*All solutions were made with the sole intent of solving the corresponding HackerRank challenge.  Solutions may not be as efficient as possible.*
+*All solutions were made with the sole intent of solving the corresponding HackerRank challenge.  Solutions may not be as efficient as possible.*  
 
 *If a solution does not have a HackerRank link, it means the problem was previously solved in a different language.  While HackerRank would not count this as an additional solution, this repo does. (ex. see Challenge "2D Array - DS")*
 
@@ -21,6 +21,7 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 - [Algorithms](#algorithms)
 - [C++](#c)
 - [Data Structures](#data-structures)
+- [Interview Preperation Kit](#interview-preperation-kit)
 - [Java](#java)
 - [Python](#python)
 - [Tutorials](#tutorials)
@@ -65,6 +66,16 @@ This repo contains all of my personal HackerRank solutions.  The coding solution
 | Subdomain | Challenge | Difficulty | Score | Solution | Language |
 | --------- | --------- | ---------- | ----- | -------- | :------: |
 | Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | 15 | [GitHub](Solutions/Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.java) &bull; [HackerRank](https://www.hackerrank.com/rest/contests/master/challenges/2d-array/hackers/CrutchTheClutch/download_solution) | ![Java](https://img.shields.io/badge/Java-b07219.svg?style=flat-square) |
+
+## Interview Preperation Kit
+
+| Subdomain | Challenge | Difficulty | Score | Solution | Language |
+| --------- | --------- | ---------- | ----- | -------- | :------: |
+| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | Easy | 15 | [GitHub](Solutions/Interview%20Preperation%20Kit/Arrays/2D%20Array%20-%20DS/Solution.js) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | Easy | 20 | [GitHub](Solutions/Interview%20Preperation%20Kit/Arrays/Arrays꞉%20Left%20Rotation/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/rest/contests/master/challenges/ctci-array-left-rotation/hackers/CrutchTheClutch/download_solution) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | Medium | 40 | [GitHub](Solutions/Interview%20Preperation%20Kit/Arrays/New%20Year%20Chaos/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/rest/contests/master/challenges/new-year-chaos/hackers/CrutchTheClutch/download_solution) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) | Medium | 40 | [GitHub](Solutions/Interview%20Preperation%20Kit/Arrays/Minimum%20Swaps%202/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/rest/contests/master/challenges/minimum-swaps-2/hackers/CrutchTheClutch/download_solution) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
+| Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | Hard | 60 | [GitHub](Solutions/Interview%20Preperation%20Kit/Arrays/Array%20Manipulation/Solution.js) &bull; [HackerRank](https://www.hackerrank.com/rest/contests/master/challenges/crush/hackers/CrutchTheClutch/download_solution) | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a.svg?style=flat-square) |
 
 ## Java
 
