@@ -24,7 +24,7 @@ public class Solution {
 
         // multiplies numOfA's by number of times s goes into n
         numOfA = numOfA * multiple;
-        
+
         // if a remainder exists, iterate through remaining string
         if (remainder > 0) {
             for (char c : s.toCharArray()) {
@@ -32,7 +32,7 @@ public class Solution {
                     numOfA++;
                 }
                 remainder--;
-                
+
                 if (remainder <= 0) {
                     break;
                 }

@@ -9,11 +9,11 @@ public class Solution {
     /*
      * Complete the countApplesAndOranges function below.
      */
-    static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {      
+    static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {
         int larry = 0; // number of apples on Sam's house
         int rob = 0; // number of oranges on Sam's house
         int target; // where a fruit lands
-        
+
         for (int num : apples) {
             target = a + num;
             if (target >= s && target <= t) {

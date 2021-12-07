@@ -5,15 +5,15 @@
  */
 class Polygon {
   constructor(lengths) {
-      this.lengths = lengths;
+    this.lengths = lengths;
   }
 
   perimeter() {
-      var perimeter = 0;
-      this.lengths.forEach(l => {
-          perimeter += l;
-      })
-      return perimeter;
+    var perimeter = 0;
+    this.lengths.forEach((l) => {
+      perimeter += l;
+    });
+    return perimeter;
   }
 }
 

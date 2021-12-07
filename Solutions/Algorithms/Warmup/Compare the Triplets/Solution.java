@@ -6,10 +6,10 @@ import java.util.regex.*;
 
 public class Solution {
 
-    static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
+    static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2) {
         int[] r = new int[2];
-        r[0] = ((a0 > b0)?1:0) + ((a1 > b1)?1:0) + ((a2 > b2)?1:0);
-        r[1] = ((a0 < b0)?1:0) + ((a1 < b1)?1:0) + ((a2 < b2)?1:0);
+        r[0] = ((a0 > b0) ? 1 : 0) + ((a1 > b1) ? 1 : 0) + ((a2 > b2) ? 1 : 0);
+        r[1] = ((a0 < b0) ? 1 : 0) + ((a1 < b1) ? 1 : 0) + ((a2 < b2) ? 1 : 0);
         return r;
     }
 
@@ -26,7 +26,6 @@ public class Solution {
             System.out.print(result[i] + (i != result.length - 1 ? " " : ""));
         }
         System.out.println("");
-        
 
     }
 }

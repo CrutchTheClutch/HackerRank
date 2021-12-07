@@ -13,16 +13,16 @@ public class Solution {
         int elavation = 0;
         int valleys = 0;
 
-        for (int i = 0; i < s.length(); i++){
+        for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
 
-            switch(c) {
-            case 'U':
-                elavation++;
-                break;
-            case 'D':
-                elavation--;
-                break;
+            switch (c) {
+                case 'U':
+                    elavation++;
+                    break;
+                case 'D':
+                    elavation--;
+                    break;
             }
 
             if (elavation == 0 && c == 'U') {

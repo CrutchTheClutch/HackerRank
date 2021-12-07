@@ -1,18 +1,18 @@
-var res = document.getElementById('res')
+var res = document.getElementById("res");
 
-document.getElementById('btn0').onclick = () => {
-  res.innerHTML += '0';
-}
+document.getElementById("btn0").onclick = () => {
+  res.innerHTML += "0";
+};
 
-document.getElementById('btn1').onclick = () => {
-  res.innerHTML += '1';
-}
+document.getElementById("btn1").onclick = () => {
+  res.innerHTML += "1";
+};
 
-document.getElementById('btnClr').onclick = () => {
-  res.innerHTML = '';
-}
+document.getElementById("btnClr").onclick = () => {
+  res.innerHTML = "";
+};
 
-document.getElementById('btnEql').onclick = () => {
+document.getElementById("btnEql").onclick = () => {
   var equation = res.innerHTML;
   equation = equation.split(/(\+|-|\*|\/)/);
   var operand1 = parseInt(equation[0], 2);
@@ -20,7 +20,7 @@ document.getElementById('btnEql').onclick = () => {
   var operand2 = parseInt(equation[2], 2);
   let result;
 
-  switch (operator){
+  switch (operator) {
     case "+":
       result = operand1 + operand2;
       break;
@@ -36,20 +36,20 @@ document.getElementById('btnEql').onclick = () => {
   }
 
   res.innerHTML = result.toString(2);
-}
+};
 
-document.getElementById('btnSum').onclick = () => {
-  res.innerHTML += '+';
-}
+document.getElementById("btnSum").onclick = () => {
+  res.innerHTML += "+";
+};
 
-document.getElementById('btnSub').onclick = () => {
-  res.innerHTML += '-';
-}
+document.getElementById("btnSub").onclick = () => {
+  res.innerHTML += "-";
+};
 
-document.getElementById('btnMul').onclick = () => {
-  res.innerHTML += '*';
-}
+document.getElementById("btnMul").onclick = () => {
+  res.innerHTML += "*";
+};
 
-document.getElementById('btnDiv').onclick = () => {
-  res.innerHTML += '/';
-}
+document.getElementById("btnDiv").onclick = () => {
+  res.innerHTML += "/";
+};

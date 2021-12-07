@@ -11,7 +11,7 @@ public class Solution {
         long[] arr = new long[5];
         long sum = 0, max = 0, min = 0;
         sum = max = min = in.nextInt();
-        for(int arr_i=1; arr_i < 5; arr_i++){
+        for (int arr_i = 1; arr_i < 5; arr_i++) {
             arr[arr_i] = in.nextInt();
             if (arr[arr_i] > max) {
                 max = arr[arr_i];
@@ -21,6 +21,6 @@ public class Solution {
             }
             sum += arr[arr_i];
         }
-        System.out.print((sum-max) + " " +(sum-min));
+        System.out.print((sum - max) + " " + (sum - min));
     }
 }

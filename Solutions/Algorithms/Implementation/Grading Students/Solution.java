@@ -6,11 +6,11 @@ import java.util.regex.*;
 
 public class Solution {
 
-    static int[] solve(int[] grades){
+    static int[] solve(int[] grades) {
         int rounded = 0, grade = 0;
         int len = grades.length;
         for (int i = 0; i < len; i++) {
-            rounded = ((grades[i])%5);
+            rounded = ((grades[i]) % 5);
             if ((rounded > 2) && (grades[i] > 35)) {
                 rounded = 5 - rounded;
                 grades[i] += rounded;
@@ -23,7 +23,7 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int[] grades = new int[n];
-        for(int grades_i=0; grades_i < n; grades_i++){
+        for (int grades_i = 0; grades_i < n; grades_i++) {
             grades[grades_i] = in.nextInt();
         }
         int[] result = solve(grades);

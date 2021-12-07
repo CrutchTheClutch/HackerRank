@@ -6,15 +6,15 @@ process.stdin.setEncoding("utf-8");
 let inputString = "";
 let currentLine = 0;
 
-process.stdin.on("data", inputStdin => {
+process.stdin.on("data", (inputStdin) => {
   inputString += inputStdin;
 });
 
-process.stdin.on("end", function() {
+process.stdin.on("end", function () {
   inputString = inputString
     .replace(/\s*$/, "")
     .split("\n")
-    .map(str => str.replace(/\s*$/, ""));
+    .map((str) => str.replace(/\s*$/, ""));
 
   main();
 });
